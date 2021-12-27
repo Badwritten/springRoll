@@ -1,0 +1,3 @@
+rootProject.name = "SpringRoll"
+include ':app'
+include ':springRoll'
